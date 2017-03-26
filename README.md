@@ -1,7 +1,8 @@
-# andrshell
+# DDoS WEB SHELL - PYTHON3
 Python3 Open File
-TR:
 
+
+TR:
 shelldos.php sunucuya upload edin ve
 shelldos.py deki bot kısmının altına shellin konumunu girin.
 bots.append("")
