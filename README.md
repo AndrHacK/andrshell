@@ -2,7 +2,7 @@
 Python3 Open File
 TR:
 
-index klosöründeki shelli sunucuya upload edin ve
+shelldos.php sunucuya upload edin ve
 shelldos.py deki bot kısmının altına shellin konumunu girin.
 bots.append("")
 
