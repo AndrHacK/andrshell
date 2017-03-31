@@ -1,5 +1,5 @@
-# DDoS WEB SHELL - PYTHON3
-Python3 Open File
+# DDoS WEB SHELL - PYTHON3 
+Python3 Open File :goberserk:
 
 
 TR:
